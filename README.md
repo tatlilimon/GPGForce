@@ -60,4 +60,7 @@ This will generate a GPG key pair where the fingerprint starts with "AA" and sav
 ```bash
 pkill gpgforce
 sudo rm /usr/local/bin/gpgforce
+
 ```
+## Todo
+- [ ] Implementation to do operations with the GPU and not with the CPU
